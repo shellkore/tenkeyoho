@@ -14,5 +14,4 @@ Simple Weather-forecast Webpage. Without any Back-end. vanilla JS implementation
 
 - Opne index.html on browser
 
-
-
+> If i were alive I would have been not dead.
